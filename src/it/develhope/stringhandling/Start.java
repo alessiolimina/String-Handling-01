@@ -9,11 +9,7 @@ public class Start {
 
         System.out.println(string1.indexOf("He"));
 
-        System.out.println(string1.indexOf("llo"));
-
         System.out.println(string2.indexOf("u?"));
-
-        //come trovo la posizione in cui finire dopo u?
 
         String s3 = string1.substring(0,2);
 
